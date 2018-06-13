@@ -1,0 +1,16 @@
+hotel_name,address,stars,rating,check-in-date,check-out-date,price
+"[<Selector xpath='normalize-space(//h2[@id=""hp_hotel_name""]/text())' data='Red Planet Manila Bay'>]","Arquiza corner Alhambra Streets Ermita, Ermita, 0930 Manila, Philippines",3.0,8.7,,,
+hotel_name,address,stars,rating,check-in-date,check-out-date,price
+"[<Selector xpath='normalize-space(//h2[@id=""hp_hotel_name""]/text())' data='Red Planet Manila Bay'>]","Arquiza corner Alhambra Streets Ermita, Ermita, 0930 Manila, Philippines",3.0,8.7,,,
+hotel_name,address,stars,rating,check-in-date,check-out-date,price
+"[<Selector xpath='normalize-space(//h2[@id=""hp_hotel_name""]/text())' data='Red Planet Manila Bay'>]","Arquiza corner Alhambra Streets Ermita, Ermita, 0930 Manila, Philippines",3.0,8.7,,,
+hotel_name,address,stars,rating,check-in-date,check-out-date,price
+"[<Selector xpath='normalize-space(//h2[@id=""hp_hotel_name""]/text())' data='Red Planet Manila Binondo'>]","251-61 Juan Luna Street, Binondo, Manila, Philippines 1006, 1006 Manila, Philippines",3.0,9.1,"
+Thu 14 Jun 2018
+",Fri 15 Jun 2018,"PHP 1,112.32"
+hotel_name,address,stars,rating,check-in-date,check-out-date,price
+Red Planet Manila Binondo,"251-61 Juan Luna Street, Binondo, Manila, Philippines 1006, 1006 Manila, Philippines",3.0,9.1,Fri 15 Jun 2018,Sat 16 Jun 2018,"₱ 1,112.32"
+hotel_name,address,stars,rating,check-in-date,check-out-date,price
+Red Planet Manila Binondo,"251-61 Juan Luna Street, Binondo, Manila, Philippines 1006, 1006 Manila, Philippines",3.0,9.1,Mon 13 Aug 2018,Tue 14 Aug 2018,"PHP 1,112.32"
+hotel_name,address,stars,rating,check-in-date,check-out-date,price
+Richmonde Hotel Ortigas,"21 San Miguel Avenue, Ortigas Center, Pasig, 1600 Manila, Philippines",4.0,7.5,Mon 13 Aug 2018,Tue 14 Aug 2018,"₱ 3,234.74"
