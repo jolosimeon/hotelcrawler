@@ -55,9 +55,10 @@ class HotelSpider(scrapy.Spider):
         self.driver.find_element_by_xpath('//li[contains(@class, "sort_bayesian_review_score")]/a').click()
 
         time.sleep(3)
-        search_results_source = self.driver.page_source
-        sr_selector = Selector(text=search_results_source.encode('utf-8'))
+        #search_results_source = self.driver.page_source
+        #sr_selector = Selector(text=search_results_source.encode('utf-8'))
         #results_list = sr_selector.xpath('//div[contains(@class, "sr_item_content")]')
+        next_page_url = self.driver.find_element_by_xpath('//a[contains(@class, "paging-next")]').get_attribute("href")
         results_list = self.driver.find_elements_by_xpath('//div[contains(@class, "sr_item_content")]')
         hotels_list = {}
         for result in results_list:
@@ -85,8 +86,8 @@ class HotelSpider(scrapy.Spider):
 
                 #check if hotel chain exists
                 is_hotel_chain = 0
-                hotel_chain_text = unicodedata.normalize("NFKD", response.xpath('normalize-space(//p[contains(@class, "hotel_meta_style")]/text())').extract_first())
-                if 'Hotel Chain' in hotel_chain_text:
+                hotel_chain_text = unicodedata.normalize("NFKD", response.xpath('normalize-space(//p[contains(@class, "hotel_meta_style")])').extract_first()).lower()
+                if 'hotel chain' in hotel_chain_text:
                     is_hotel_chain = 1
 
                 #check if amenities exist
@@ -99,7 +100,7 @@ class HotelSpider(scrapy.Spider):
                 if 'pool' in summary or 'pool' in facilities:
                     has_pool = 1
                 if 'gym' in summary or 'gym' in facilities or 'fitness centre' in facilities:
-                    has_pool = 1
+                    has_gym = 1
                 if 'function room' in summary or 'function room' in facilities:
                     has_function_room = 1
                 if 'breakfast buffet' in summary or 'breakfast buffet' in facilities:
@@ -123,6 +124,8 @@ class HotelSpider(scrapy.Spider):
                 }
 
             hotelsParsed += 1
+        print(hotelsParsed)
+        self.driver.get(next_page_url)
 
     def generate_results_url(self, url, offset):
         scheme, netloc, path, query_string, fragment = urlsplit(url)
