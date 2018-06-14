@@ -58,18 +58,31 @@ class HotelSpider(scrapy.Spider):
         #search_results_source = self.driver.page_source
         #sr_selector = Selector(text=search_results_source.encode('utf-8'))
         #results_list = sr_selector.xpath('//div[contains(@class, "sr_item_content")]')
-        next_page_url = self.driver.find_element_by_xpath('//a[contains(@class, "paging-next")]').get_attribute("href")
-        results_list = self.driver.find_elements_by_xpath('//div[contains(@class, "sr_item_content")]')
+
         hotels_list = {}
-        for result in results_list:
-            #url = result.xpath('normalize-space(//a[contains(@class, "hotel_name_link")]/@href)').extract_first()
-            url = result.find_element_by_xpath('.//a[contains(@class, "hotel_name_link")]').get_attribute("href")
-            try:
-                location_from_center = result.find_element_by_xpath('.//span[contains(@class, "distfromdest_clean")]').text
-                #location_from_center = unicodedata.normalize("NFKD", result.xpath('normalize-space(//span[contains(@class, "distfromdest_clean")])').extract_first())
-            except:
-                location_from_center = "not available"
-            hotels_list[url] = location_from_center
+        resultsParsed = 0
+
+        reqResults = -1
+        while reqResults == -1 or resultsParsed < reqResults:
+            ##for each results page, get the result items
+            results_list = self.driver.find_elements_by_xpath('//div[contains(@class, "sr_item_content")]')
+
+            ##for each result item, add them to url dictionary
+            for result in results_list:
+                url = result.find_element_by_xpath('.//a[contains(@class, "hotel_name_link")]').get_attribute("href")
+                try:
+                    location_from_center = result.find_element_by_xpath('.//span[contains(@class, "distfromdest_clean")]').text
+                    #location_from_center = unicodedata.normalize("NFKD", result.xpath('normalize-space(//span[contains(@class, "distfromdest_clean")])').extract_first())
+                except:
+                    location_from_center = "not available"
+                hotels_list[url] = location_from_center
+                resultsParsed += 1
+                if resultsParsed 
+            next_page_url = self.driver.find_elements_by_xpath('//a[contains(@class, "paging-next")]')
+            if len(next_page_url) < 1:
+                break
+            else:
+                self.driver.get(next_page_url[0].get_attribute("href"))
         
         hotelsParsed = 0
         for url, location_from_center in hotels_list.items():
