@@ -62,9 +62,9 @@ class HotelSpider(scrapy.Spider):
         hotels_list = {}
         for result in results_list:
             #url = result.xpath('normalize-space(//a[contains(@class, "hotel_name_link")]/@href)').extract_first()
-            url = result.find_element_by_xpath('//a[contains(@class, "hotel_name_link")]').get_attribute("href")
+            url = result.find_element_by_xpath('.//a[contains(@class, "hotel_name_link")]').get_attribute("href")
             try:
-                location_from_center = result.find_element_by_xpath('//span[contains(@class, "distfromdest_clean")]').text
+                location_from_center = result.find_element_by_xpath('.//span[contains(@class, "distfromdest_clean")]').text
                 #location_from_center = unicodedata.normalize("NFKD", result.xpath('normalize-space(//span[contains(@class, "distfromdest_clean")])').extract_first())
             except:
                 location_from_center = "not available"
