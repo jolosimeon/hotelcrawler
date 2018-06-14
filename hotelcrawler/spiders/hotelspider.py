@@ -52,24 +52,26 @@ class HotelSpider(scrapy.Spider):
         self.driver.find_element_by_xpath('//span[contains(text(), "5 stars")]').click()
         self.driver.find_element_by_xpath('//div[contains(@class, "filter_item")]/span[contains(text(), "Hotels")]').click()
         #self.driver.find_element_by_xpath('//li[contains(@class, "sort_distance_from_landmark")]/a').click()
-        #sort_bayesian_review_score
+        self.driver.find_element_by_xpath('//li[contains(@class, "sort_bayesian_review_score")]/a').click()
 
         time.sleep(3)
         search_results_source = self.driver.page_source
         sr_selector = Selector(text=search_results_source.encode('utf-8'))
         #results_list = sr_selector.xpath('//div[contains(@class, "sr_item_content")]')
         results_list = self.driver.find_elements_by_xpath('//div[contains(@class, "sr_item_content")]')
-        hotelsParsed = 0
-
+        hotels_list = {}
         for result in results_list:
             #url = result.xpath('normalize-space(//a[contains(@class, "hotel_name_link")]/@href)').extract_first()
             url = result.find_element_by_xpath('//a[contains(@class, "hotel_name_link")]').get_attribute("href")
             try:
-                location_from_center = result.find_element_by_xpath('normalize-space(//span[contains(@class, "distfromdest_clean")]').text
+                location_from_center = result.find_element_by_xpath('//span[contains(@class, "distfromdest_clean")]').text
                 #location_from_center = unicodedata.normalize("NFKD", result.xpath('normalize-space(//span[contains(@class, "distfromdest_clean")])').extract_first())
             except:
                 location_from_center = "not available"
-
+            hotels_list[url] = location_from_center
+        
+        hotelsParsed = 0
+        for url, location_from_center in hotels_list.items():
             offset_list = [120]
             #offset_list = [1, 2, 4, 5, 7, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60, 70, 80, 90, 120]
 
