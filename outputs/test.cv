@@ -1,4 +1,0 @@
-hotel_name,address,stars,rating,check-in-date,check-out-date,room_type,price,location_from_center,is_hotel_chain,has_breakfast_buffet,has_pool,has_gym,has_function_room
-Holiday Inn & Suites Makati,"Glorietta Mall, Palm Drive, Ayala Center, Makati , Makati, 1224 Manila, Philippines",5,8.9,Fri 12 Oct 2018,Sat 13 Oct 2018,Deluxe Room - Non-Smoking,"PHP 5,474",not available,0,0,1,0,0
-hotel_name,address,stars,rating,check-in-date,check-out-date,room_type,price,location_from_center,is_hotel_chain,has_breakfast_buffet,has_pool,has_gym,has_function_room
-Sofitel Philippine Plaza Manila,"CCP Complex, Roxas Boulevard, Pasay, 1300 Manila, Philippines",5,8.2,Fri 12 Oct 2018,Sat 13 Oct 2018,Superior Twin Room,"₱ 8,691",(4.9 km from centre),0,0,1,0,0

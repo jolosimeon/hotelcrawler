@@ -93,7 +93,7 @@ class HotelSpider(scrapy.Spider):
         print (len(hotels_list))
         hotelsParsed = 0
         for url, location_from_center in hotels_list.items():
-            offset_list = [120]
+            offset_list = [5]
             #offset_list = [1, 2, 4, 5, 7, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60, 70, 80, 90, 120]
 
             for days_offset in offset_list:
@@ -145,6 +145,8 @@ class HotelSpider(scrapy.Spider):
                         price =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-price-price-standard")]/text())').extract_first())
                         if not price:
                             price =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-price-price-actual")]/text())').extract_first())
+                            if not price:
+                                price =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "bui-price__title-small")]/text())').extract_first())
                         if room_type and price:
                             ##yield for every room entry in available room list
                             yield {
