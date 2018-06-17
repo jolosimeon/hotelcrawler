@@ -112,7 +112,7 @@ class HotelSpider(scrapy.Spider):
                     #for first hotel iteration, do this shit
                     hotel_name = unicodedata.normalize("NFKD", response.xpath('normalize-space(//h2[@id="hp_hotel_name"]/text())').extract_first()),
                     address = unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "hp_address_subtitle")]/text())').extract_first()),
-                    stars = int(float(unicodedata.normalize("NFKD", response.xpath('count(//span[contains(@class, "hp__hotel_ratings__stars")]//circle)').extract_first()))),
+                    stars = str(len(response.xpath('//span[contains(@class, "hp__hotel_ratings__stars")]//circle'))),
                     rating = unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "review-score-widget")]/span[contains(@class, "review-score-badge")]/text())').extract_first()),
 
                     #check if hotel chain exists
