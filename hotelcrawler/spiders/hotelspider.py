@@ -43,7 +43,7 @@ class HotelSpider(scrapy.Spider):
         self.driver.find_element_by_xpath('//button[contains(@class, "sb-searchbox__button")]').click()
 
         wait = WebDriverWait(self.driver, 10)
-        element_present = wait.until(EC.presence_of_element_located((By.XPATH, '//span[contains(text(), "1 star")]')))
+        wait.until(EC.presence_of_element_located((By.XPATH, '//span[contains(text(), "1 star")]')))
 
         self.driver.find_element_by_xpath('//span[contains(text(), "1 star")]').click()
         self.driver.find_element_by_xpath('//span[contains(text(), "2 stars")]').click()
@@ -61,8 +61,11 @@ class HotelSpider(scrapy.Spider):
 
         hotels_list = {}
         resultsParsed = 0
-
+        
         reqResults = -1
+        reqResults = 5
+        stopParse = False
+
         while reqResults == -1 or resultsParsed < reqResults:
             ##for each results page, get the result items
             results_list = self.driver.find_elements_by_xpath('//div[contains(@class, "sr_item_content")]')
@@ -77,68 +80,99 @@ class HotelSpider(scrapy.Spider):
                     location_from_center = "not available"
                 hotels_list[url] = location_from_center
                 resultsParsed += 1
-                if resultsParsed 
+                if reqResults != -1 and resultsParsed >= reqResults:
+                    stopParse = True
+                    break
             next_page_url = self.driver.find_elements_by_xpath('//a[contains(@class, "paging-next")]')
-            if len(next_page_url) < 1:
+            if len(next_page_url) < 1 or stopParse:
                 break
             else:
                 self.driver.get(next_page_url[0].get_attribute("href"))
         
+        print (hotels_list)
+        print (len(hotels_list))
         hotelsParsed = 0
         for url, location_from_center in hotels_list.items():
             offset_list = [120]
             #offset_list = [1, 2, 4, 5, 7, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60, 70, 80, 90, 120]
 
             for days_offset in offset_list:
-                url = self.generate_offset_url(url, days_offset)
+                checkin_date = (datetime.datetime.today() + timedelta(days = days_offset)).strftime('%Y-%m-%d')
+                checkout_date = (datetime.datetime.today() + timedelta(days = days_offset + 1)).strftime('%Y-%m-%d')
+                url = self.add_params_url(url, 'checkin', checkin_date)
+                url = self.add_params_url(url, 'checkout', checkout_date)
+
                 #add 1 second delay to not get blocked by website because that would be bad lol
                 time.sleep(1)
-
                 self.driver.get(url)
                 response = Selector(text=self.driver.page_source.encode('utf-8'))
 
-                #check if hotel chain exists
-                is_hotel_chain = 0
-                hotel_chain_text = unicodedata.normalize("NFKD", response.xpath('normalize-space(//p[contains(@class, "hotel_meta_style")])').extract_first()).lower()
-                if 'hotel chain' in hotel_chain_text:
-                    is_hotel_chain = 1
+                if offset_list[0] == days_offset:
 
-                #check if amenities exist
-                has_breakfast_buffet = 0
-                has_pool = 0
-                has_gym = 0
-                has_function_room = 0
-                summary = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[@id="summary"]))').extract_first()).lower()
-                facilities = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[contains(@class, "facilitiesChecklist")]))').extract_first()).lower()
-                if 'pool' in summary or 'pool' in facilities:
-                    has_pool = 1
-                if 'gym' in summary or 'gym' in facilities or 'fitness centre' in facilities:
-                    has_gym = 1
-                if 'function room' in summary or 'function room' in facilities:
-                    has_function_room = 1
-                if 'breakfast buffet' in summary or 'breakfast buffet' in facilities:
-                    has_breakfast_buffet = 1
+                    #for first hotel iteration, do this shit
+                    hotel_name = unicodedata.normalize("NFKD", response.xpath('normalize-space(//h2[@id="hp_hotel_name"]/text())').extract_first()),
+                    address = unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "hp_address_subtitle")]/text())').extract_first()),
+                    stars = int(float(unicodedata.normalize("NFKD", response.xpath('count(//span[contains(@class, "hp__hotel_ratings__stars")]//circle)').extract_first()))),
+                    rating = unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "review-score-widget")]/span[contains(@class, "review-score-badge")]/text())').extract_first()),
 
-                yield {
-                    'hotel_name': unicodedata.normalize("NFKD", response.xpath('normalize-space(//h2[@id="hp_hotel_name"]/text())').extract_first()),
-                    'address': unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "hp_address_subtitle")]/text())').extract_first()),
-                    'stars': int(float(unicodedata.normalize("NFKD", response.xpath('count(//span[contains(@class, "hp__hotel_ratings__stars")]//circle)').extract_first()))),
-                    'rating': unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "review-score-widget")]/span[contains(@class, "review-score-badge")]/text())').extract_first()),
-                    'check-in-date': unicodedata.normalize("NFKD", response.xpath('normalize-space(//a[contains(@class, "av-summary-checkin")]/text())').extract_first()),
-                    'check-out-date': unicodedata.normalize("NFKD", response.xpath('normalize-space(//a[contains(@class, "av-summary-checkout")]/text())').extract_first()),
-                    'room_type': unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "hprt-roomtype-icon-link")]/text())').extract_first()),
-                    'price': unicodedata.normalize("NFKD", response.xpath('normalize-space(//span[contains(@class, "hprt-price-price-standard")]/text())').extract_first()),
-                    'location_from_center': location_from_center,
-                    'is_hotel_chain': is_hotel_chain,
-                    'has_breakfast_buffet': has_breakfast_buffet,
-                    'has_pool': has_pool,
-                    'has_gym': has_gym,
-                    'has_function_room': has_function_room
-                }
+                    #check if hotel chain exists
+                    is_hotel_chain = 0
+                    hotel_chain_text = unicodedata.normalize("NFKD", response.xpath('normalize-space(//p[contains(@class, "hotel_meta_style")])').extract_first()).lower()
+                    if 'hotel chain' in hotel_chain_text:
+                        is_hotel_chain = 1
+
+                    #check if amenities exist
+                    has_breakfast_buffet = 0
+                    has_pool = 0
+                    has_gym = 0
+                    has_function_room = 0
+                    summary = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[@id="summary"]))').extract_first()).lower()
+                    facilities = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[contains(@class, "facilitiesChecklist")]))').extract_first()).lower()
+                    if 'pool' in summary or 'pool' in facilities:
+                        has_pool = 1
+                    if 'gym' in summary or 'gym' in facilities or 'fitness centre' in facilities:
+                        has_gym = 1
+                    if 'function room' in summary or 'function room' in facilities:
+                        has_function_room = 1
+                    if 'breakfast buffet' in summary or 'breakfast buffet' in facilities:
+                        has_breakfast_buffet = 1
+                    
+                    #look for rooms
+                    rooms_list = response.xpath('//table[contains(@class, "hprt-table")]//tr')
+                    #for every room
+                    for room in rooms_list:
+                        room_type =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-roomtype-icon-link")]/text())').extract_first())
+                        price =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-price-price-standard")]/text())').extract_first())
+                        if not price:
+                            price =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-price-price-actual")]/text())').extract_first())
+                        if room_type and price:
+                            ##yield for every room entry in available room list
+                            yield {
+                                'hotel_name': hotel_name,
+                                'address': address,
+                                'stars': stars,
+                                'rating': rating,
+                                'check-in-date': checkin_date,
+                                'check-out-date': checkout_date,
+                                'room_type': room_type,
+                                'price': price,
+                                'location_from_center': location_from_center,
+                                'is_hotel_chain': is_hotel_chain,
+                                'has_breakfast_buffet': has_breakfast_buffet,
+                                'has_pool': has_pool,
+                                'has_gym': has_gym,
+                                'has_function_room': has_function_room
+                            }
 
             hotelsParsed += 1
-        print(hotelsParsed)
-        self.driver.get(next_page_url)
+        print('Hotels Parsed: ' + str(hotelsParsed))
+
+    def add_params_url(self, url, param, value):
+        scheme, netloc, path, query_string, fragment = urlsplit(url)
+        query_params = parse_qs(query_string)
+        query_params[param] = [value]
+        new_query_string = urlencode(query_params, doseq=True)
+        return urlunsplit((scheme, netloc, path, new_query_string, fragment))
 
     def generate_results_url(self, url, offset):
         scheme, netloc, path, query_string, fragment = urlsplit(url)
@@ -147,18 +181,7 @@ class HotelSpider(scrapy.Spider):
         query_params['offset'] = [offset]
         new_query_string = urlencode(query_params, doseq=True)
         return urlunsplit((scheme, netloc, path, new_query_string, fragment))
-
-    def generate_offset_url(self, url, days_offset):
-        scheme, netloc, path, query_string, fragment = urlsplit(url)
-        query_params = parse_qs(query_string)
-
-        checkin_date = (datetime.datetime.today() + timedelta(days = days_offset)).strftime('%Y-%m-%d')
-        checkout_date = (datetime.datetime.today() + timedelta(days = days_offset + 1)).strftime('%Y-%m-%d')
-
-        query_params['checkin'] = [checkin_date]
-        query_params['checkout'] = [checkout_date]
-        new_query_string = urlencode(query_params, doseq=True)
-        return urlunsplit((scheme, netloc, path, new_query_string, fragment))
+        
 
     def spider_closed(self, spider):
         if self.driver:
