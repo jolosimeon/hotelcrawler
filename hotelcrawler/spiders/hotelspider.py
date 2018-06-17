@@ -93,7 +93,7 @@ class HotelSpider(scrapy.Spider):
         print (len(hotels_list))
         hotelsParsed = 0
         for url, location_from_center in hotels_list.items():
-            offset_list = [5]
+            offset_list = [120]
             #offset_list = [1, 2, 4, 5, 7, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60, 70, 80, 90, 120]
 
             for days_offset in offset_list:
