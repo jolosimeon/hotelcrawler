@@ -70,8 +70,8 @@ class HotelSpider(scrapy.Spider):
         hotels_list = {}
         resultsParsed = 0
         
-        reqResults = -1
-        #reqResults = 2
+        #reqResults = -1
+        reqResults = 2
         stopParse = False
 
         while reqResults == -1 or resultsParsed < reqResults:
@@ -103,8 +103,8 @@ class HotelSpider(scrapy.Spider):
         for url, location_from_center in hotels_list.items():
             print("*********************Hotel " + str(hotelsParsed + 1) + " out of " + str(len(hotels_list)))
             
-            offset_list = [1, 2, 4, 5, 7, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60, 70, 80, 90, 120]
-            #offset_list = [1, 120]
+            #offset_list = [1, 2, 4, 5, 7, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60, 70, 80, 90, 120]
+            offset_list = [1, 120]
             for days_offset in offset_list:
                 checkin_date = (datetime.datetime.today() + timedelta(days = days_offset)).strftime('%Y-%m-%d')
                 checkout_date = (datetime.datetime.today() + timedelta(days = days_offset + 1)).strftime('%Y-%m-%d')
@@ -131,10 +131,13 @@ class HotelSpider(scrapy.Spider):
                         is_hotel_chain = 1
 
                     #check if amenities exist
-                    has_breakfast_buffet = 0
+                    has_parking = 0
+                    has_wifi = 0
+                    has_breakfast_food_drinks = 0
                     has_pool = 0
+                    has_beach_front = 0
                     has_gym = 0
-                    has_function_room = 0
+                    has_airport_shuttle
                     summary = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[@id="summary"]))').extract_first()).lower()
                     facilities = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[contains(@class, "facilitiesChecklist")]))').extract_first()).lower()
                     if 'pool' in summary or 'pool' in facilities:
