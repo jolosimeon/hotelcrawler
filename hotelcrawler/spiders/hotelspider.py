@@ -24,8 +24,9 @@ class HotelSpider(scrapy.Spider):
     #start_urls = ['https://www.booking.com/searchresults.en-gb.html?region=5630;ss=Davao%2C%20Philippines']
     #start_urls = ['https://www.booking.com/hotel/ph/red-planet-binondo.en-gb.html?aid=304142;label=gen173nr-1FCAQoggJCE3NlYXJjaF9tZXRybyttYW5pbGFICVgEaLQBiAEBmAEuwgEKd2luZG93cyAxMMgBDNgBAegBAfgBApICAXmoAgM;sid=78e774a890731222a7398aead8e3d850;all_sr_blocks=266128701_105636643_2_0_0;checkin=2018-06-21;checkout=2018-06-22;dest_id=-2437894;dest_type=city;dist=0;dotd_fb=1;hapos=1;highlighted_blocks=266128701_105636643_2_0_0;hpos=1;nflt=class%3D1%3Bclass%3D2%3Bclass%3D3%3Bclass%3D4%3Bclass%3D5%3Bht_id%3D204;room1=A;sb_price_type=total;srepoch=1528913348;srfid=69eec472f4147f110a73f67557b310b05c8bc005X1;srpvid=f87d7fa1a7f00149;type=total;ucfs=1&#hotelTmpl']
     reqResults = -1
+    offset = 0
 
-    def __init__(self, loc='', numhotels=-1, *args, **kwargs):
+    def __init__(self, loc='', numhotels=-1, offset=0, *args, **kwargs):
         super(HotelSpider, self).__init__(*args, **kwargs)
         if loc == 'baguio':
             self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?city=-2410361')
@@ -49,13 +50,15 @@ class HotelSpider(scrapy.Spider):
             self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?city=-2459765')
 
         self.reqResults = int(numhotels)
+        self.offset = int(offset)
         chrome_options = Options()
        # chrome_options.add_argument("--headless")
        # chrome_options.add_argument("--window-size=1400x900")
         prefs = {'profile.managed_default_content_settings.images':2}
         chrome_options.add_experimental_option("detach", True)
         chrome_options.add_experimental_option("prefs", prefs)
-        self.driver = webdriver.Chrome(chrome_options=chrome_options)
+        chrome_path = "driver/chromedriver"
+        self.driver = webdriver.Chrome(executable_path=chrome_path, chrome_options=chrome_options)
 
     def parse(self, response):
         self.driver.get(response.url)
@@ -96,7 +99,9 @@ class HotelSpider(scrapy.Spider):
         self.driver.find_element_by_xpath('//div[contains(@class, "filter_item")]/span[contains(text(), "Hotels")]').click()
         time.sleep(1)
         #self.driver.find_element_by_xpath('//li[contains(@class, "sort_distance_from_landmark")]/a').click()
-        self.driver.find_element_by_xpath('//li[contains(@class, "sort_bayesian_review_score")]/a').click()
+        elem = self.driver.find_elements_by_xpath('//li[contains(@class, "sort_bayesian_review_score")]/a')
+        if len(elem) > 0:
+            elem[0].click()
 
         time.sleep(3)
         #search_results_source = self.driver.page_source
@@ -110,7 +115,7 @@ class HotelSpider(scrapy.Spider):
         #self.reqResults = 2
         stopParse = False
 
-        while self.reqResults == -1 or resultsParsed < self.reqResults:
+        while self.reqResults == -1 or resultsParsed < self.reqResults + self.offset:
             ##for each results page, get the result items
             results_list = self.driver.find_elements_by_xpath('//div[contains(@class, "sr_item_content")]')
 
@@ -122,9 +127,10 @@ class HotelSpider(scrapy.Spider):
                     #location_from_center = unicodedata.normalize("NFKD", result.xpath('normalize-space(//span[contains(@class, "distfromdest_clean")])').extract_first())
                 except:
                     location_from_center = "not available"
-                hotels_list[url] = location_from_center
+                if resultsParsed >= self.offset:
+                    hotels_list[url] = location_from_center
                 resultsParsed += 1
-                if self.reqResults != -1 and resultsParsed >= self.reqResults:
+                if self.reqResults != -1 and resultsParsed >= self.reqResults + self.offset:
                     stopParse = True
                     break
             next_page_url = self.driver.find_elements_by_xpath('//a[contains(@class, "paging-next")]')
