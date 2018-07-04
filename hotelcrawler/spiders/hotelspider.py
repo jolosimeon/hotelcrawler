@@ -20,11 +20,35 @@ class HotelSpider(scrapy.Spider):
     
     #start_urls = ['https://www.booking.com/hotel/ph/red-planet-manila-bay-manila.en-gb.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNYBGi0AYgBAZgBLsIBCndpbmRvd3MgMTDIAQ_YAQHoAQH4AQuSAgF5qAID;sid=d1cefe2b1ccb1dd74325d599983f140c;all_sr_blocks=266128901_105636671_2_0_0;checkin=2018-09-13;checkout=2018-09-14;dest_id=-2437894;dest_type=city;dist=0;group_adults=1;group_children=0;hapos=1;highlighted_blocks=266128901_105636671_2_0_0;hpos=1;no_rooms=1;room1=A;sb_price_type=total;srepoch=1528865568;srfid=240de3bab9026fe7fa53e68e5358b24fe5f4d157X1;srpvid=63e5224fd68c002c;type=total;ucfs=1&#hotelTmpl']
     #start_urls = ['https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAQoggJCC3JlZ2lvbl81MjU4SAlYBGi0AYgBAZgBLsIBCndpbmRvd3MgMTDIAQ_YAQHoAQH4AQKSAgF5qAID&sid=d42d69c201c210da5ba401e54684cb03&sb=1&src=searchresults&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Fsearchresults.en-gb.html%3Flabel%3Dgen173nr-1FCAQoggJCC3JlZ2lvbl81MjU4SAlYBGi0AYgBAZgBLsIBCndpbmRvd3MgMTDIAQ_YAQHoAQH4AQKSAgF5qAID%3Bsid%3Dd42d69c201c210da5ba401e54684cb03%3Bcity%3D-2437894%3Bclass_interval%3D1%3Bdest_id%3D5258%3Bdest_type%3Dregion%3Bdtdisc%3D0%3Binac%3D0%3Bindex_postcard%3D0%3Blabel_click%3Dundef%3Bnflt%3Dclass%253D5%253Bclass%253D4%253Bclass%253D3%253Bclass%253D2%253Bclass%253D1%253B%253Bht_id%253D204%3Boffset%3D0%3Bpostcard%3D0%3Braw_dest_type%3Dregion%3Broom1%3DA%252CA%3Bsb_price_type%3Dtotal%3Bss%3DMetro%2520Manila%252C%2520Philippines%3Bss_all%3D0%3Bssb%3Dempty%3Bsshis%3D0%26%3B&ss=Metro+Manila&ssne=Metro+Manila&ssne_untouched=Metro+Manila&region=5258&checkin_monthday=13&checkin_month=6&checkin_year=2018&checkout_monthday=14&checkout_month=6&checkout_year=2018&group_adults=1&group_children=0&no_rooms=1&from_sf=1']
-    start_urls = ['https://www.booking.com/searchresults.en-gb.html?region=5258;ss=Metro%2BManila']
+    #start_urls = ['https://www.booking.com/searchresults.en-gb.html?region=5258;ss=Metro%2BManila']
     #start_urls = ['https://www.booking.com/searchresults.en-gb.html?region=5630;ss=Davao%2C%20Philippines']
     #start_urls = ['https://www.booking.com/hotel/ph/red-planet-binondo.en-gb.html?aid=304142;label=gen173nr-1FCAQoggJCE3NlYXJjaF9tZXRybyttYW5pbGFICVgEaLQBiAEBmAEuwgEKd2luZG93cyAxMMgBDNgBAegBAfgBApICAXmoAgM;sid=78e774a890731222a7398aead8e3d850;all_sr_blocks=266128701_105636643_2_0_0;checkin=2018-06-21;checkout=2018-06-22;dest_id=-2437894;dest_type=city;dist=0;dotd_fb=1;hapos=1;highlighted_blocks=266128701_105636643_2_0_0;hpos=1;nflt=class%3D1%3Bclass%3D2%3Bclass%3D3%3Bclass%3D4%3Bclass%3D5%3Bht_id%3D204;room1=A;sb_price_type=total;srepoch=1528913348;srfid=69eec472f4147f110a73f67557b310b05c8bc005X1;srpvid=f87d7fa1a7f00149;type=total;ucfs=1&#hotelTmpl']
+    reqResults = -1
 
-    def __init__(self):
+    def __init__(self, loc='', numhotels=-1, *args, **kwargs):
+        super(HotelSpider, self).__init__(*args, **kwargs)
+        if loc == 'baguio':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?city=-2410361')
+        elif loc == 'bohol':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5469')
+        elif loc == 'camsur':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=6399')
+        elif loc == 'cebu':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5374')
+        elif loc == 'davao':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5630;ss=Davao%2C%20Philippines')
+        elif loc == 'launion':
+            self.start_urls.append('ttps://www.booking.com/searchresults.html?city=-2432442')
+        elif loc == 'manila':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5258;ss=Metro%2BManila')
+        elif loc == 'palawan':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=1505')
+        elif loc == 'siargao':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5375')
+        elif loc == 'vigan':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?city=-2459765')
+
+        self.reqResults = int(numhotels)
         chrome_options = Options()
        # chrome_options.add_argument("--headless")
        # chrome_options.add_argument("--window-size=1400x900")
@@ -43,6 +67,8 @@ class HotelSpider(scrapy.Spider):
         selectNumber.select_by_value("1")
 
         self.driver.find_element_by_xpath('//button[contains(@class, "sb-searchbox__button")]').click()
+
+        self.driver.get(self.driver.current_url + "&no_dorms=1")
 
         wait = WebDriverWait(self.driver, 10)
         wait.until(EC.presence_of_element_located((By.XPATH, '//span[contains(text(), "1 star")]')))
@@ -70,11 +96,11 @@ class HotelSpider(scrapy.Spider):
         hotels_list = {}
         resultsParsed = 0
         
-        #reqResults = -1
-        reqResults = 2
+        #self.reqResults = -1
+        #self.reqResults = 2
         stopParse = False
 
-        while reqResults == -1 or resultsParsed < reqResults:
+        while self.reqResults == -1 or resultsParsed < self.reqResults:
             ##for each results page, get the result items
             results_list = self.driver.find_elements_by_xpath('//div[contains(@class, "sr_item_content")]')
 
@@ -88,7 +114,7 @@ class HotelSpider(scrapy.Spider):
                     location_from_center = "not available"
                 hotels_list[url] = location_from_center
                 resultsParsed += 1
-                if reqResults != -1 and resultsParsed >= reqResults:
+                if self.reqResults != -1 and resultsParsed >= self.reqResults:
                     stopParse = True
                     break
             next_page_url = self.driver.find_elements_by_xpath('//a[contains(@class, "paging-next")]')
@@ -105,6 +131,9 @@ class HotelSpider(scrapy.Spider):
             
             #offset_list = [1, 2, 4, 5, 7, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60, 70, 80, 90, 120]
             offset_list = [1, 120]
+            offset_list = [1, 3, 7, 14, 21, 28, 30, 35, 42, 49, 56, 60, 63, 70, 77, 84, 90, 91, 98, 105, 112, 119, 120, 126, 133, 140, 147, 150, 154, 161, 168, 175, 180, 182, 189, 196, 203, 210, 217, 224, 231, 238, 240, 245, 252, 259, 266, 270, 273, 280, 287, 294, 300, 301, 308, 315, 322, 329, 330, 336, 343, 350, 357, 360, 364]
+            start_time = time.time()
+            
             for days_offset in offset_list:
                 checkin_date = (datetime.datetime.today() + timedelta(days = days_offset)).strftime('%Y-%m-%d')
                 checkout_date = (datetime.datetime.today() + timedelta(days = days_offset + 1)).strftime('%Y-%m-%d')
@@ -137,17 +166,23 @@ class HotelSpider(scrapy.Spider):
                     has_pool = 0
                     has_beach_front = 0
                     has_gym = 0
-                    has_airport_shuttle
+                    has_airport_shuttle = 0
                     summary = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[@id="summary"]))').extract_first()).lower()
                     facilities = unicodedata.normalize("NFKD", response.xpath('normalize-space(string(//div[contains(@class, "facilitiesChecklist")]))').extract_first()).lower()
                     if 'pool' in summary or 'pool' in facilities:
                         has_pool = 1
                     if 'gym' in summary or 'gym' in facilities or 'fitness centre' in facilities:
                         has_gym = 1
-                    if 'function room' in summary or 'function room' in facilities:
-                        has_function_room = 1
+                    if 'beach front' in summary or 'beach front' in facilities:
+                        has_beach_front = 1
                     if 'breakfast buffet' in summary or 'breakfast buffet' in facilities:
-                        has_breakfast_buffet = 1
+                        has_breakfast_food_drinks = 1
+                    if 'parking' in summary or 'parking' in facilities:
+                        has_parking = 1
+                    if 'wifi' in facilities or 'wi-fi' in facilities:
+                        has_wifi = 1
+                    if 'airport shuttle' in summary or 'airport shuttle' in facilities:
+                        has_airport_shuttle = 1
                     
                     #look for rooms
                 rooms_list = response.xpath('//table[contains(@class, "hprt-table")]//tr')
@@ -176,13 +211,19 @@ class HotelSpider(scrapy.Spider):
                                 'capacity': capacity,
                                 'location_from_center': location_from_center,
                                 'is_hotel_chain': is_hotel_chain,
-                                'has_breakfast_buffet': has_breakfast_buffet,
+                                'has_parking' : has_parking,
+                                'has_wifi': has_wifi,
+                                'has_breakfast_food_drinks':  has_breakfast_food_drinks,
                                 'has_pool': has_pool,
+                                'has_beach_front': has_beach_front,
                                 'has_gym': has_gym,
-                                'has_function_room': has_function_room
+                                'has_airport_shuttle': has_airport_shuttle
                             }
-
+            elapsed_time = time.time() - start_time
+            time.strftime("%H:%M:%S", time.gmtime(elapsed_time))
+            print('Elapsed Time: ' + elapsed_time)
             hotelsParsed += 1
+            
         print('Hotels Parsed: ' + str(hotelsParsed))
 
     def add_params_url(self, url, param, value):
