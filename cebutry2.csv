@@ -1,0 +1,104 @@
+hotel_name,address,stars,rating,check-in-date,check-out-date,room_type,price,capacity,location_from_center,is_hotel_chain,has_parking,has_wifi,has_breakfast_food_drinks,has_pool,has_beach_front,has_gym,has_airport_shuttle
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-07-05,2018-07-06,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-07-07,2018-07-08,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-07-11,2018-07-12,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-07-18,2018-07-19,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-07-25,2018-07-26,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-08-01,2018-08-02,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-08-03,2018-08-04,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-08-08,2018-08-09,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-08-15,2018-08-16,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-08-22,2018-08-23,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-08-29,2018-08-30,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-09-02,2018-09-03,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-09-05,2018-09-06,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-09-12,2018-09-13,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-09-19,2018-09-20,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-09-26,2018-09-27,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-10-02,2018-10-03,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-10-03,2018-10-04,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-10-10,2018-10-11,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-10-17,2018-10-18,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-10-24,2018-10-25,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-10-31,2018-11-01,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-11-01,2018-11-02,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-11-07,2018-11-08,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-11-14,2018-11-15,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-11-21,2018-11-22,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-11-28,2018-11-29,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-12-01,2018-12-02,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-12-05,2018-12-06,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-12-12,2018-12-13,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-12-19,2018-12-20,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-12-26,2018-12-27,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2018-12-31,2019-01-01,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-01-02,2019-01-03,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-01-09,2019-01-10,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-01-16,2019-01-17,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-01-23,2019-01-24,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-01-30,2019-01-31,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-02-06,2019-02-07,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-02-13,2019-02-14,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-02-20,2019-02-21,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-02-27,2019-02-28,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-03-01,2019-03-02,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-03-06,2019-03-07,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-03-13,2019-03-14,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-03-20,2019-03-21,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-03-27,2019-03-28,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-03-31,2019-04-01,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-04-03,2019-04-04,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-04-10,2019-04-11,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-04-17,2019-04-18,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-04-24,2019-04-25,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-04-30,2019-05-01,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-05-01,2019-05-02,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-05-08,2019-05-09,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-05-15,2019-05-16,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-05-22,2019-05-23,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-05-29,2019-05-30,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-05-30,2019-05-31,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-06-05,2019-06-06,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-06-12,2019-06-13,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-06-19,2019-06-20,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-06-26,2019-06-27,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-06-29,2019-06-30,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Kiwi Hotel,"1060 G. Tudtud Street, Barangay Mabolo, 6000 Cebu City, Philippines",2,7.7,2019-07-03,2019-07-04,Standard Room,"PHP 1,401.60",2,not available,0,1,1,0,0,0,1,0
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-07-07,2018-07-08,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-07-18,2018-07-19,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-08-08,2018-08-09,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-08-15,2018-08-16,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-08-22,2018-08-23,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-08-29,2018-08-30,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-09-02,2018-09-03,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-09-05,2018-09-06,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-09-12,2018-09-13,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-09-19,2018-09-20,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-09-26,2018-09-27,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-10-02,2018-10-03,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-10-10,2018-10-11,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-10-17,2018-10-18,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-10-24,2018-10-25,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-10-31,2018-11-01,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-11-01,2018-11-02,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-11-07,2018-11-08,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-11-14,2018-11-15,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-11-28,2018-11-29,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-12-01,2018-12-02,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-12-05,2018-12-06,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-12-12,2018-12-13,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-12-19,2018-12-20,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2018-12-26,2018-12-27,Double Room,"PHP 2,720",1,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-01-02,2019-01-03,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-01-09,2019-01-10,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-01-16,2019-01-17,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-01-23,2019-01-24,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-01-30,2019-01-31,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-02-06,2019-02-07,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-02-13,2019-02-14,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-02-20,2019-02-21,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-03-06,2019-03-07,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-03-13,2019-03-14,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-03-20,2019-03-21,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-03-27,2019-03-28,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1
+Villa Rosa Cebu,"Barangay Atabay, Cebu, 6023 Alcoy, Philippines",3,9.2,2019-03-31,2019-04-01,Double Room,"PHP 3,000",2,not available,0,1,1,0,1,0,1,1

@@ -96,8 +96,9 @@ class HotelSpider(scrapy.Spider):
         self.driver.find_element_by_xpath('//div[contains(@class, "filter_item")]/span[contains(text(), "Hotels")]').click()
         time.sleep(1)
         #self.driver.find_element_by_xpath('//li[contains(@class, "sort_distance_from_landmark")]/a').click()
-        self.driver.find_element_by_xpath('//li[contains(@class, "sort_bayesian_review_score")]/a').click()
-
+        elem = self.driver.find_elements_by_xpath('//li[contains(@class, "sort_bayesian_review_score")]/a')
+        if len(elem) > 0:
+            elem[0].click()
         time.sleep(3)
         #search_results_source = self.driver.page_source
         #sr_selector = Selector(text=search_results_source.encode('utf-8'))
@@ -229,6 +230,7 @@ class HotelSpider(scrapy.Spider):
                                 'has_gym': has_gym,
                                 'has_airport_shuttle': has_airport_shuttle
                             }
+                            
             elapsed_time = time.time() - start_time
             time.strftime("%H:%M:%S", time.gmtime(elapsed_time))
             print('Elapsed Time: ' + str(elapsed_time))
