@@ -231,7 +231,7 @@ class HotelSpider(scrapy.Spider):
                             }
             elapsed_time = time.time() - start_time
             time.strftime("%H:%M:%S", time.gmtime(elapsed_time))
-            print('Elapsed Time: ' + str(elapsed_time)
+            print('Elapsed Time: ' + str(elapsed_time))
             hotelsParsed += 1
             
         print('Hotels Parsed: ' + str(hotelsParsed))
