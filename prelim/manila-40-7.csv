@@ -1,0 +1,24 @@
+hotel_name,address,stars,rating,check-in-date,check-out-date,room_type,price,capacity,location_from_center,is_hotel_chain,has_parking,has_wifi,has_breakfast_food_drinks,has_pool,has_beach_front,has_gym,has_airport_shuttle
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-07-06,2018-07-07,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-07-08,2018-07-09,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-07-12,2018-07-13,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-07-19,2018-07-20,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-07-26,2018-07-27,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-02,2018-08-03,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-02,2018-08-03,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-04,2018-08-05,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-04,2018-08-05,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-09,2018-08-10,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-09,2018-08-10,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-16,2018-08-17,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-16,2018-08-17,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-23,2018-08-24,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-23,2018-08-24,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-30,2018-08-31,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-08-30,2018-08-31,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-09-03,2018-09-04,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-09-03,2018-09-04,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-09-06,2018-09-07,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-09-06,2018-09-07,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-09-13,2018-09-14,Standard Double Room,"PHP 2,090",2,(5 km from centre),0,1,1,0,0,0,0,1
+Saint Illian's Inn Makati,"7461 Santillian Street Pio del Pilar, Makati, 1230 Manila, Philippines",3,7.0,2018-09-13,2018-09-14,Standard Twin Room,"PHP 2,290",2,(5 km from centre),0,1,1,0,0,0,0,1

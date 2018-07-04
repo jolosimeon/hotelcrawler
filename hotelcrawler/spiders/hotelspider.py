@@ -203,7 +203,7 @@ class HotelSpider(scrapy.Spider):
                 rooms_list = response.xpath('//table[contains(@class, "hprt-table")]//tr')
                 #for every room
                 for room in rooms_list:
-                    room_type =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-roomtype-icon-link")]/text())').extract_first())
+                    room_type =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[@class = "hprt-roomtype-icon-link "]/text())').extract_first())
                     price =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-price-price-standard")]/text())').extract_first())
                     if not price:
                         price =  unicodedata.normalize("NFKD", room.xpath('normalize-space(.//span[contains(@class, "hprt-price-price-actual")]/text())').extract_first())
