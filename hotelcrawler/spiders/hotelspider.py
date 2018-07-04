@@ -73,15 +73,25 @@ class HotelSpider(scrapy.Spider):
         wait = WebDriverWait(self.driver, 10)
         wait.until(EC.presence_of_element_located((By.XPATH, '//span[contains(text(), "1 star")]')))
 
-        self.driver.find_element_by_xpath('//span[contains(text(), "1 star")]').click()
+        elem = self.driver.find_elements_by_xpath('//span[contains(text(), "1 star")]')
+        if len(elem) > 0:
+            elem[0].click()
         time.sleep(1)
-        self.driver.find_element_by_xpath('//span[contains(text(), "2 stars")]').click()
+        elem = self.driver.find_elements_by_xpath('//span[contains(text(), "2 star")]')
+        if len(elem) > 0:
+            elem[0].click()
         time.sleep(1)
-        self.driver.find_element_by_xpath('//span[contains(text(), "3 stars")]').click()
+        elem = self.driver.find_elements_by_xpath('//span[contains(text(), "3 star")]')
+        if len(elem) > 0:
+            elem[0].click()
         time.sleep(1)
-        self.driver.find_element_by_xpath('//span[contains(text(), "4 stars")]').click()
+        elem = self.driver.find_elements_by_xpath('//span[contains(text(), "4 star")]')
+        if len(elem) > 0:
+            elem[0].click()
         time.sleep(1)
-        self.driver.find_element_by_xpath('//span[contains(text(), "5 stars")]').click()
+        elem = self.driver.find_elements_by_xpath('//span[contains(text(), "5 star")]')
+        if len(elem) > 0:
+            elem[0].click()
         time.sleep(1)
         self.driver.find_element_by_xpath('//div[contains(@class, "filter_item")]/span[contains(text(), "Hotels")]').click()
         time.sleep(1)
@@ -221,7 +231,7 @@ class HotelSpider(scrapy.Spider):
                             }
             elapsed_time = time.time() - start_time
             time.strftime("%H:%M:%S", time.gmtime(elapsed_time))
-            print('Elapsed Time: ' + elapsed_time)
+            print('Elapsed Time: ' + str(elapsed_time)
             hotelsParsed += 1
             
         print('Hotels Parsed: ' + str(hotelsParsed))
