@@ -39,7 +39,7 @@ class HotelSpider(scrapy.Spider):
         elif loc == 'davao':
             self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5630;ss=Davao%2C%20Philippines')
         elif loc == 'launion':
-            self.start_urls.append('ttps://www.booking.com/searchresults.html?city=-2432442')
+            self.start_urls.append('https://www.booking.com/searchresults.html?city=-2432442')
         elif loc == 'manila':
             self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5258;ss=Metro%2BManila')
         elif loc == 'palawan':
