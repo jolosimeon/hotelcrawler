@@ -48,12 +48,16 @@ class HotelSpider(scrapy.Spider):
             self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=5375')
         elif loc == 'vigan':
             self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?city=-2459765')
+        elif loc == 'iloilo':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?city=-2428456')
+        elif loc == 'zambales':
+            self.start_urls.append('https://www.booking.com/searchresults.en-gb.html?region=6227')
 
         self.reqResults = int(numhotels)
         self.offset = int(offset)
         chrome_options = Options()
        # chrome_options.add_argument("--headless")
-       # chrome_options.add_argument("--window-size=1400x900")
+        #chrome_options.add_argument("--window-size=1400x900")
         prefs = {'profile.managed_default_content_settings.images':2}
         chrome_options.add_experimental_option("detach", True)
         chrome_options.add_experimental_option("prefs", prefs)
@@ -79,24 +83,29 @@ class HotelSpider(scrapy.Spider):
         elem = self.driver.find_elements_by_xpath('//span[contains(text(), "1 star")]')
         if len(elem) > 0:
             elem[0].click()
-        time.sleep(1)
+        time.sleep(2)
         elem = self.driver.find_elements_by_xpath('//span[contains(text(), "2 star")]')
         if len(elem) > 0:
             elem[0].click()
-        time.sleep(1)
+        time.sleep(2)
         elem = self.driver.find_elements_by_xpath('//span[contains(text(), "3 star")]')
         if len(elem) > 0:
             elem[0].click()
-        time.sleep(1)
+        time.sleep(2)
         elem = self.driver.find_elements_by_xpath('//span[contains(text(), "4 star")]')
         if len(elem) > 0:
             elem[0].click()
-        time.sleep(1)
+        time.sleep(2)
         elem = self.driver.find_elements_by_xpath('//span[contains(text(), "5 star")]')
         if len(elem) > 0:
             elem[0].click()
-        time.sleep(1)
+        time.sleep(10)
+        #wait = WebDriverWait(self.driver, 20)
+        #wait.until(EC.invisibility_of_element_located((By.XPATH, '//p[contains(@class, ""sr-filter-heading)]')));
+      
         self.driver.find_element_by_xpath('//div[contains(@class, "filter_item")]/span[contains(text(), "Hotels")]').click()
+        
+
         time.sleep(1)
         #self.driver.find_element_by_xpath('//li[contains(@class, "sort_distance_from_landmark")]/a').click()
         elem = self.driver.find_elements_by_xpath('//li[contains(@class, "sort_bayesian_review_score")]/a')

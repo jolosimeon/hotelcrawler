@@ -1,0 +1,709 @@
+hotel_name,address,stars,rating,check-in-date,check-out-date,room_type,price,capacity,location_from_center,is_hotel_chain,has_parking,has_wifi,has_breakfast_food_drinks,has_pool,has_beach_front,has_gym,has_airport_shuttle
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-09-03,2018-09-04,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-09-06,2018-09-07,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-09-13,2018-09-14,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-09-20,2018-09-21,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-10-11,2018-10-12,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-10-18,2018-10-19,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-10-25,2018-10-26,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-11-01,2018-11-02,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-11-02,2018-11-03,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-11-08,2018-11-09,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-11-15,2018-11-16,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-11-22,2018-11-23,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-11-29,2018-11-30,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-12-02,2018-12-03,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-12-06,2018-12-07,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-12-13,2018-12-14,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-12-20,2018-12-21,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+White Mansion,"14 Alaminos Street, Rolling Hills Subdivision, Bacaca Road, 8000 Davao City, Philippines",1,8.1,2018-12-27,2018-12-28,One-Bedroom Suite,"₱ 1,900",2,(3.9 km from centre),0,1,1,0,1,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-06,2018-07-07,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-06,2018-07-07,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-08,2018-07-09,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-08,2018-07-09,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-12,2018-07-13,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-12,2018-07-13,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-26,2018-07-27,Superior Twin Room,"₱ 1,959.94",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-07-26,2018-07-27,Superior Double Room,"₱ 2,222.14",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-02,2018-08-03,Superior Twin Room,"₱ 1,959.94",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-02,2018-08-03,Superior Double Room,"₱ 2,222.14",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-04,2018-08-05,Superior Twin Room,"₱ 1,959.94",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-04,2018-08-05,Superior Double Room,"₱ 2,222.14",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-09,2018-08-10,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-09,2018-08-10,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-16,2018-08-17,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-16,2018-08-17,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-23,2018-08-24,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-23,2018-08-24,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-30,2018-08-31,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-08-30,2018-08-31,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-03,2018-09-04,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-03,2018-09-04,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-06,2018-09-07,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-06,2018-09-07,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-13,2018-09-14,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-13,2018-09-14,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-20,2018-09-21,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-20,2018-09-21,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-27,2018-09-28,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-09-27,2018-09-28,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-10-11,2018-10-12,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-10-11,2018-10-12,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-10-18,2018-10-19,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-10-18,2018-10-19,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-10-25,2018-10-26,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-10-25,2018-10-26,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-01,2018-11-02,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-01,2018-11-02,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-02,2018-11-03,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-02,2018-11-03,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-08,2018-11-09,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-08,2018-11-09,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-15,2018-11-16,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-15,2018-11-16,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-22,2018-11-23,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-22,2018-11-23,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-29,2018-11-30,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-11-29,2018-11-30,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-02,2018-12-03,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-02,2018-12-03,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-06,2018-12-07,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-06,2018-12-07,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-13,2018-12-14,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-13,2018-12-14,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-20,2018-12-21,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-20,2018-12-21,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-27,2018-12-28,Superior Twin Room,"₱ 2,063.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Sumo Asia Hotels - Davao,"Mamay Road, Barangay Alfonso Angliongto Sr.Lanang Davao City, 8000 Davao City, Philippines",2,7.9,2018-12-27,2018-12-28,Superior Double Room,"₱ 2,339.10",2,(5 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-02,2018-08-03,Standard Double Room,"₱ 2,014",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-02,2018-08-03,Two Single Beds Room,"₱ 2,071",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-02,2018-08-03,Deluxe Queen Room,"₱ 2,574.50",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-02,2018-08-03,Suite,"₱ 3,021",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-04,2018-08-05,Standard Double Room,"₱ 2,014",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-04,2018-08-05,Two Single Beds Room,"₱ 2,071",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-04,2018-08-05,Deluxe Queen Room,"₱ 2,574.50",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-04,2018-08-05,Suite,"₱ 3,021",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-09,2018-08-10,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-09,2018-08-10,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-09,2018-08-10,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-09,2018-08-10,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-16,2018-08-17,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-16,2018-08-17,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-16,2018-08-17,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-16,2018-08-17,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-23,2018-08-24,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-23,2018-08-24,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-23,2018-08-24,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-23,2018-08-24,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-30,2018-08-31,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-30,2018-08-31,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-30,2018-08-31,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-08-30,2018-08-31,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-03,2018-09-04,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-03,2018-09-04,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-03,2018-09-04,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-03,2018-09-04,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-06,2018-09-07,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-06,2018-09-07,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-06,2018-09-07,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-06,2018-09-07,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-13,2018-09-14,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-13,2018-09-14,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-13,2018-09-14,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-13,2018-09-14,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-20,2018-09-21,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-20,2018-09-21,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-20,2018-09-21,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-20,2018-09-21,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-27,2018-09-28,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-27,2018-09-28,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-27,2018-09-28,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-09-27,2018-09-28,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-03,2018-10-04,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-03,2018-10-04,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-03,2018-10-04,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-03,2018-10-04,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-04,2018-10-05,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-04,2018-10-05,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-04,2018-10-05,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-04,2018-10-05,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-11,2018-10-12,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-11,2018-10-12,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-11,2018-10-12,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-11,2018-10-12,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-18,2018-10-19,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-18,2018-10-19,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-18,2018-10-19,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-18,2018-10-19,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-25,2018-10-26,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-25,2018-10-26,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-25,2018-10-26,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-10-25,2018-10-26,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-01,2018-11-02,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-01,2018-11-02,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-01,2018-11-02,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-01,2018-11-02,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-02,2018-11-03,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-02,2018-11-03,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-02,2018-11-03,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-02,2018-11-03,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-08,2018-11-09,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-08,2018-11-09,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-08,2018-11-09,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-08,2018-11-09,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-15,2018-11-16,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-15,2018-11-16,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-15,2018-11-16,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-15,2018-11-16,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-22,2018-11-23,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-22,2018-11-23,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-22,2018-11-23,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-22,2018-11-23,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-29,2018-11-30,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-29,2018-11-30,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-29,2018-11-30,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-11-29,2018-11-30,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-02,2018-12-03,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-02,2018-12-03,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-02,2018-12-03,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-02,2018-12-03,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-06,2018-12-07,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-06,2018-12-07,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-06,2018-12-07,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-06,2018-12-07,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-13,2018-12-14,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-13,2018-12-14,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-13,2018-12-14,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-13,2018-12-14,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-20,2018-12-21,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-20,2018-12-21,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-20,2018-12-21,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-20,2018-12-21,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-27,2018-12-28,Standard Double Room,"₱ 2,120",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-27,2018-12-28,Two Single Beds Room,"₱ 2,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-27,2018-12-28,Deluxe Queen Room,"₱ 2,710",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Star Hotel,"Lot 16 Blk 14, Mabini Street corner Voyager Street Brgy. 9-A, Poblacion, 8000 Davao City, Philippines",3,7.4,2018-12-27,2018-12-28,Suite,"₱ 3,180",2,(1.6 km from centre),0,1,1,0,0,0,0,0
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-06,2018-07-07,Deluxe Room,"₱ 3,600",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-06,2018-07-07,Double Room,"₱ 4,800",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-08,2018-07-09,Deluxe Room,"₱ 3,600",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-08,2018-07-09,Double Room,"₱ 4,800",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-12,2018-07-13,Deluxe Room,"₱ 3,600",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-12,2018-07-13,Double Room,"₱ 4,800",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-19,2018-07-20,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-19,2018-07-20,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-26,2018-07-27,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-07-26,2018-07-27,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-02,2018-08-03,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-02,2018-08-03,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-04,2018-08-05,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-04,2018-08-05,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-09,2018-08-10,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-09,2018-08-10,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-16,2018-08-17,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-16,2018-08-17,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-23,2018-08-24,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-23,2018-08-24,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-30,2018-08-31,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-08-30,2018-08-31,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-03,2018-09-04,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-03,2018-09-04,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-06,2018-09-07,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-06,2018-09-07,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-13,2018-09-14,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-13,2018-09-14,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-20,2018-09-21,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-20,2018-09-21,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-27,2018-09-28,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-09-27,2018-09-28,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-03,2018-10-04,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-03,2018-10-04,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-04,2018-10-05,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-04,2018-10-05,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-11,2018-10-12,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-11,2018-10-12,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-18,2018-10-19,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-18,2018-10-19,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-25,2018-10-26,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-10-25,2018-10-26,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-01,2018-11-02,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-01,2018-11-02,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-02,2018-11-03,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-02,2018-11-03,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-08,2018-11-09,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-08,2018-11-09,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-15,2018-11-16,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-15,2018-11-16,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-22,2018-11-23,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-22,2018-11-23,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-29,2018-11-30,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-11-29,2018-11-30,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-02,2018-12-03,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-02,2018-12-03,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-06,2018-12-07,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-06,2018-12-07,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-13,2018-12-14,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-13,2018-12-14,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-20,2018-12-21,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-20,2018-12-21,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-27,2018-12-28,Deluxe Room,"₱ 3,375",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2018-12-27,2018-12-28,Double Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-01,2019-01-02,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-01,2019-01-02,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-03,2019-01-04,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-03,2019-01-04,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-10,2019-01-11,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-10,2019-01-11,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-17,2019-01-18,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-17,2019-01-18,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-24,2019-01-25,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-24,2019-01-25,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-31,2019-02-01,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-01-31,2019-02-01,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-07,2019-02-08,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-07,2019-02-08,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-14,2019-02-15,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-14,2019-02-15,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-21,2019-02-22,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-21,2019-02-22,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-28,2019-03-01,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-02-28,2019-03-01,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-02,2019-03-03,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-02,2019-03-03,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-07,2019-03-08,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-07,2019-03-08,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-14,2019-03-15,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-14,2019-03-15,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-21,2019-03-22,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-21,2019-03-22,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-28,2019-03-29,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-03-28,2019-03-29,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-01,2019-04-02,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-01,2019-04-02,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-04,2019-04-05,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-04,2019-04-05,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-11,2019-04-12,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-11,2019-04-12,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-18,2019-04-19,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-18,2019-04-19,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-25,2019-04-26,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-04-25,2019-04-26,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-01,2019-05-02,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-01,2019-05-02,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-02,2019-05-03,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-02,2019-05-03,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-09,2019-05-10,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-09,2019-05-10,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-16,2019-05-17,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-16,2019-05-17,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-23,2019-05-24,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-23,2019-05-24,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-30,2019-05-31,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-30,2019-05-31,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-31,2019-06-01,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-05-31,2019-06-01,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-06,2019-06-07,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-06,2019-06-07,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-13,2019-06-14,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-13,2019-06-14,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-20,2019-06-21,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-20,2019-06-21,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-27,2019-06-28,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-27,2019-06-28,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-30,2019-07-01,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-06-30,2019-07-01,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-07-04,2019-07-05,Deluxe Room,"₱ 4,500",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Home Crest Hotel,"Tulip Drive Cor. Walnut Ave. Ecoland Phase 7, 8000 Davao City, Philippines",3,7.8,2019-07-04,2019-07-05,Double Room,"₱ 6,000",2,(2.5 km from centre),0,1,1,0,0,0,0,1
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-06,2018-07-07,Standard Queen Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-06,2018-07-07,Standard Twin Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-08,2018-07-09,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-08,2018-07-09,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-12,2018-07-13,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-12,2018-07-13,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-19,2018-07-20,Standard Queen Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-19,2018-07-20,Standard Twin Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-26,2018-07-27,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-07-26,2018-07-27,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-02,2018-08-03,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-02,2018-08-03,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-04,2018-08-05,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-04,2018-08-05,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-09,2018-08-10,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-09,2018-08-10,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-16,2018-08-17,Standard Queen Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-16,2018-08-17,Standard Twin Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-23,2018-08-24,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-23,2018-08-24,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-30,2018-08-31,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-08-30,2018-08-31,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-03,2018-09-04,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-03,2018-09-04,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-06,2018-09-07,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-06,2018-09-07,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-13,2018-09-14,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-13,2018-09-14,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-20,2018-09-21,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-20,2018-09-21,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-27,2018-09-28,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-09-27,2018-09-28,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-03,2018-10-04,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-03,2018-10-04,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-04,2018-10-05,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-04,2018-10-05,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-11,2018-10-12,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-11,2018-10-12,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-18,2018-10-19,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-18,2018-10-19,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-25,2018-10-26,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-10-25,2018-10-26,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-01,2018-11-02,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-01,2018-11-02,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-02,2018-11-03,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-02,2018-11-03,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-08,2018-11-09,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-08,2018-11-09,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-15,2018-11-16,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-15,2018-11-16,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-22,2018-11-23,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-22,2018-11-23,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-29,2018-11-30,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-11-29,2018-11-30,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-02,2018-12-03,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-02,2018-12-03,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-06,2018-12-07,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-06,2018-12-07,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-13,2018-12-14,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-13,2018-12-14,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-20,2018-12-21,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-20,2018-12-21,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-27,2018-12-28,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2018-12-27,2018-12-28,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-01,2019-01-02,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-01,2019-01-02,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-03,2019-01-04,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-03,2019-01-04,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-10,2019-01-11,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-10,2019-01-11,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-17,2019-01-18,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-17,2019-01-18,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-24,2019-01-25,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-24,2019-01-25,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-31,2019-02-01,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-01-31,2019-02-01,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-07,2019-02-08,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-07,2019-02-08,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-14,2019-02-15,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-14,2019-02-15,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-21,2019-02-22,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-21,2019-02-22,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-28,2019-03-01,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-02-28,2019-03-01,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-02,2019-03-03,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-02,2019-03-03,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-07,2019-03-08,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-07,2019-03-08,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-14,2019-03-15,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-14,2019-03-15,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-21,2019-03-22,Standard Queen Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-21,2019-03-22,Standard Twin Room,"₱ 1,888",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-28,2019-03-29,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-03-28,2019-03-29,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-01,2019-04-02,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-01,2019-04-02,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-04,2019-04-05,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-04,2019-04-05,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-11,2019-04-12,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-11,2019-04-12,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-18,2019-04-19,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-18,2019-04-19,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-25,2019-04-26,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-04-25,2019-04-26,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-01,2019-05-02,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-01,2019-05-02,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-02,2019-05-03,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-02,2019-05-03,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-09,2019-05-10,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-09,2019-05-10,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-16,2019-05-17,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-16,2019-05-17,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-23,2019-05-24,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-23,2019-05-24,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-30,2019-05-31,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-30,2019-05-31,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-31,2019-06-01,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-05-31,2019-06-01,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-06,2019-06-07,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-06,2019-06-07,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-13,2019-06-14,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-13,2019-06-14,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-20,2019-06-21,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-20,2019-06-21,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-27,2019-06-28,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-27,2019-06-28,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-30,2019-07-01,Standard Queen Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Go Hotels Lanang - Davao,"Km 7 J.P. Laurel Avenue, Lanang, 8000 Davao City, Philippines",3,7.9,2019-06-30,2019-07-01,Standard Twin Room,"₱ 1,588",2,(5 km from centre),0,1,1,0,0,0,0,0
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-07-06,2018-07-07,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-07-08,2018-07-09,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-02,2018-08-03,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-02,2018-08-03,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-04,2018-08-05,2 Queen Beds Room,"₱ 2,354.70",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-04,2018-08-05,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-09,2018-08-10,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-09,2018-08-10,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-16,2018-08-17,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-16,2018-08-17,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-23,2018-08-24,2 Queen Beds Room,"₱ 2,720.09",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-23,2018-08-24,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-30,2018-08-31,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-08-30,2018-08-31,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-03,2018-09-04,2 Queen Beds Room,"₱ 2,598.29",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-03,2018-09-04,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-06,2018-09-07,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-06,2018-09-07,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-13,2018-09-14,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-13,2018-09-14,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-20,2018-09-21,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-20,2018-09-21,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-27,2018-09-28,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-09-27,2018-09-28,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-10-11,2018-10-12,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-10-11,2018-10-12,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-10-18,2018-10-19,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-10-18,2018-10-19,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-10-25,2018-10-26,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-10-25,2018-10-26,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-01,2018-11-02,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-01,2018-11-02,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-02,2018-11-03,2 Queen Beds Room,"₱ 2,735.04",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-02,2018-11-03,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-08,2018-11-09,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-08,2018-11-09,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-15,2018-11-16,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-15,2018-11-16,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-22,2018-11-23,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-22,2018-11-23,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-29,2018-11-30,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-11-29,2018-11-30,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-02,2018-12-03,2 Queen Beds Room,"₱ 2,354.70",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-02,2018-12-03,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-06,2018-12-07,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-06,2018-12-07,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-13,2018-12-14,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-13,2018-12-14,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-20,2018-12-21,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-20,2018-12-21,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-27,2018-12-28,2 Queen Beds Room,"₱ 2,820.51",1,(5 km from centre),1,1,1,0,0,0,0,1
+Microtel by Wyndham Davao,"Damosa Gateway Complex Mamay Road, Lanang, 8000 Davao City, Philippines",3,7.8,2018-12-27,2018-12-28,Suite,"₱ 4,273.50",2,(5 km from centre),1,1,1,0,0,0,0,1
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-07-08,2018-07-09,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-07-12,2018-07-13,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-07-26,2018-07-27,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-08-02,2018-08-03,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-08-04,2018-08-05,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-08-09,2018-08-10,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-08-16,2018-08-17,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-08-23,2018-08-24,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-08-30,2018-08-31,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-09-03,2018-09-04,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-09-06,2018-09-07,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-09-13,2018-09-14,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-09-20,2018-09-21,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-09-27,2018-09-28,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-10-03,2018-10-04,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-10-04,2018-10-05,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-10-11,2018-10-12,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-10-18,2018-10-19,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-10-25,2018-10-26,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-11-01,2018-11-02,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-11-02,2018-11-03,Standard Double Room,"₱ 1,056.55",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-11-08,2018-11-09,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-11-15,2018-11-16,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-11-22,2018-11-23,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-11-29,2018-11-30,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-12-02,2018-12-03,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-12-06,2018-12-07,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-12-13,2018-12-14,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-12-20,2018-12-21,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2018-12-27,2018-12-28,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-01-01,2019-01-02,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-01-03,2019-01-04,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-01-10,2019-01-11,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-01-17,2019-01-18,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-01-24,2019-01-25,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-01-31,2019-02-01,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-02-07,2019-02-08,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-02-14,2019-02-15,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-02-21,2019-02-22,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-02-28,2019-03-01,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-03-02,2019-03-03,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-03-07,2019-03-08,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-03-14,2019-03-15,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-03-21,2019-03-22,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-03-28,2019-03-29,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-04-01,2019-04-02,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-04-04,2019-04-05,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-04-11,2019-04-12,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-04-18,2019-04-19,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-04-25,2019-04-26,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-05-01,2019-05-02,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-05-02,2019-05-03,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-05-09,2019-05-10,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-05-16,2019-05-17,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-05-23,2019-05-24,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-05-30,2019-05-31,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-05-31,2019-06-01,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-06-06,2019-06-07,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-06-13,2019-06-14,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-06-20,2019-06-21,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-06-27,2019-06-28,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-06-30,2019-07-01,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Roxas Avenue,"Located in ALU Hotel, M. Roxas Ave. Corner Padre Faura St., Davao City, 8000 Davao City, Philippines",2,7.6,2019-07-04,2019-07-05,Standard Double Room,"₱ 1,016.39",2,(900 m from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Cabaguio Avenue Davao,"Located in The Metropolis Suites Davao, Cabaguio Avenue corner Macopa Street, 8000 Davao City, Philippines",3,7.5,2018-07-08,2018-07-09,Standard Double Room,"₱ 1,663.93",2,(3.9 km from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Cabaguio Avenue Davao,"Located in The Metropolis Suites Davao, Cabaguio Avenue corner Macopa Street, 8000 Davao City, Philippines",3,7.5,2018-07-12,2018-07-13,Standard Double Room,"₱ 1,663.93",2,(3.9 km from centre),1,1,1,0,0,0,0,0
+ZEN Rooms Cabaguio Avenue Davao,"Located in The Metropolis Suites Davao, Cabaguio Avenue corner Macopa Street, 8000 Davao City, Philippines",3,7.5,2018-07-19,2018-07-20,Standard Double Room,"₱ 1,663.93",2,(3.9 km from centre),1,1,1,0,0,0,0,0
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-07-06,2018-07-07,Superior Double Room,"₱ 2,991.80",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-07-06,2018-07-07,Deluxe Double Room,"₱ 3,073.77",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-07-08,2018-07-09,Superior Double Room,"₱ 2,991.80",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-07-08,2018-07-09,Deluxe Double Room,"₱ 3,073.77",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-02,2018-08-03,Superior Double Room,"₱ 2,643.25",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-02,2018-08-03,Deluxe Double Room,"₱ 2,715.67",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-04,2018-08-05,Superior Double Room,"₱ 2,557.98",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-04,2018-08-05,Deluxe Double Room,"₱ 2,628.07",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-16,2018-08-17,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-16,2018-08-17,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-30,2018-08-31,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-08-30,2018-08-31,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-03,2018-09-04,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-03,2018-09-04,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-06,2018-09-07,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-06,2018-09-07,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-20,2018-09-21,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-20,2018-09-21,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-27,2018-09-28,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-09-27,2018-09-28,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-03,2018-10-04,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-03,2018-10-04,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-04,2018-10-05,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-04,2018-10-05,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-11,2018-10-12,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-11,2018-10-12,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-18,2018-10-19,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-18,2018-10-19,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-25,2018-10-26,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-10-25,2018-10-26,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-01,2018-11-02,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-01,2018-11-02,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-02,2018-11-03,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-02,2018-11-03,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-08,2018-11-09,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-08,2018-11-09,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-15,2018-11-16,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-15,2018-11-16,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-22,2018-11-23,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-22,2018-11-23,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-29,2018-11-30,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-11-29,2018-11-30,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-02,2018-12-03,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-02,2018-12-03,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-06,2018-12-07,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-06,2018-12-07,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-13,2018-12-14,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-13,2018-12-14,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-20,2018-12-21,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-20,2018-12-21,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-27,2018-12-28,Superior Double Room,"₱ 2,692.62",2,(650 m from centre),0,1,1,0,1,0,0,1
+The Royal Mandaya Hotel,"J. Palma Gil Street, 8000 Davao City, Philippines",3,7.8,2018-12-27,2018-12-28,Deluxe Double Room,"₱ 2,766.39",2,(650 m from centre),0,1,1,0,1,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-06,2018-07-07,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-06,2018-07-07,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-06,2018-07-07,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-08,2018-07-09,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-08,2018-07-09,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-08,2018-07-09,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-12,2018-07-13,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-12,2018-07-13,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-12,2018-07-13,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-19,2018-07-20,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-19,2018-07-20,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-19,2018-07-20,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-26,2018-07-27,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-26,2018-07-27,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-07-26,2018-07-27,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-02,2018-08-03,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-02,2018-08-03,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-02,2018-08-03,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-04,2018-08-05,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-04,2018-08-05,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-04,2018-08-05,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-09,2018-08-10,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-09,2018-08-10,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-09,2018-08-10,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-16,2018-08-17,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-16,2018-08-17,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-16,2018-08-17,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-23,2018-08-24,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-23,2018-08-24,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-23,2018-08-24,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-30,2018-08-31,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-30,2018-08-31,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-08-30,2018-08-31,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-03,2018-09-04,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-03,2018-09-04,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-03,2018-09-04,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-06,2018-09-07,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-06,2018-09-07,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-06,2018-09-07,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-13,2018-09-14,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-13,2018-09-14,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-13,2018-09-14,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-20,2018-09-21,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-20,2018-09-21,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-20,2018-09-21,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-27,2018-09-28,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-27,2018-09-28,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-09-27,2018-09-28,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-03,2018-10-04,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-03,2018-10-04,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-03,2018-10-04,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-04,2018-10-05,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-04,2018-10-05,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-04,2018-10-05,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-11,2018-10-12,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-11,2018-10-12,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-11,2018-10-12,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-18,2018-10-19,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-18,2018-10-19,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-18,2018-10-19,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-25,2018-10-26,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-25,2018-10-26,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-10-25,2018-10-26,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-01,2018-11-02,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-01,2018-11-02,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-01,2018-11-02,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-02,2018-11-03,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-02,2018-11-03,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-02,2018-11-03,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-08,2018-11-09,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-08,2018-11-09,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-08,2018-11-09,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-15,2018-11-16,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-15,2018-11-16,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-15,2018-11-16,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-22,2018-11-23,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-22,2018-11-23,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-22,2018-11-23,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-29,2018-11-30,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-29,2018-11-30,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-11-29,2018-11-30,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-02,2018-12-03,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-02,2018-12-03,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-02,2018-12-03,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-06,2018-12-07,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-06,2018-12-07,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-06,2018-12-07,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-13,2018-12-14,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-13,2018-12-14,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-13,2018-12-14,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-20,2018-12-21,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-20,2018-12-21,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-20,2018-12-21,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-27,2018-12-28,Single Room,"₱ 2,730",1,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-27,2018-12-28,Standard Twin Room,"₱ 3,120",2,(1.6 km from centre),0,1,1,0,0,0,0,1
+Blueberry Tourist Hotel,"1055 Avancena St. Corner Jacinto Extension, 8000 Davao City, Philippines",3,6.6,2018-12-27,2018-12-28,Deluxe Queen Room,"₱ 3,510",2,(1.6 km from centre),0,1,1,0,0,0,0,1

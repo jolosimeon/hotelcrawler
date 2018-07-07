@@ -1,0 +1,544 @@
+hotel_name,address,stars,rating,check-in-date,check-out-date,room_type,price,capacity,location_from_center,is_hotel_chain,has_parking,has_wifi,has_breakfast_food_drinks,has_pool,has_beach_front,has_gym,has_airport_shuttle
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-07-08,2018-07-09,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-07-08,2018-07-09,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-07-19,2018-07-20,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-07-19,2018-07-20,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-07-26,2018-07-27,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-07-26,2018-07-27,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-07-26,2018-07-27,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-08-23,2018-08-24,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-08-23,2018-08-24,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-08-23,2018-08-24,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-08-30,2018-08-31,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-08-30,2018-08-31,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-08-30,2018-08-31,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-03,2018-09-04,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-03,2018-09-04,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-06,2018-09-07,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-06,2018-09-07,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-13,2018-09-14,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-13,2018-09-14,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-13,2018-09-14,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-20,2018-09-21,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-20,2018-09-21,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-20,2018-09-21,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-27,2018-09-28,Deluxe Double or Twin Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-27,2018-09-28,King Room with Sea View,"₱ 7,200",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-09-27,2018-09-28,King Suite with Sea View,"₱ 8,100",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-03,2018-10-04,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-11,2018-10-12,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-11,2018-10-12,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-11,2018-10-12,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-18,2018-10-19,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-18,2018-10-19,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-18,2018-10-19,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-10-25,2018-10-26,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-11-15,2018-11-16,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-11-15,2018-11-16,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-11-15,2018-11-16,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-11-22,2018-11-23,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-11-22,2018-11-23,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-11-22,2018-11-23,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-02,2018-12-03,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-02,2018-12-03,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-02,2018-12-03,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-06,2018-12-07,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-06,2018-12-07,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-06,2018-12-07,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-13,2018-12-14,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-13,2018-12-14,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-13,2018-12-14,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-20,2018-12-21,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-20,2018-12-21,King Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-20,2018-12-21,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-27,2018-12-28,Deluxe Double or Twin Room with Sea View,"₱ 8,000",2,not available,0,1,1,0,1,0,0,1
+The Lighthouse Marina Resort,"Block4, Lot1, Moonbay Marina Complex Waterfront Road, Central Business District, 2222 Subic, Philippines",4,7.9,2018-12-27,2018-12-28,King Suite with Sea View,"₱ 9,000",2,not available,0,1,1,0,1,0,0,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-06,2018-07-07,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-06,2018-07-07,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-06,2018-07-07,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-06,2018-07-07,Family Suite,"₱ 6,534.40",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-08,2018-07-09,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-08,2018-07-09,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-08,2018-07-09,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-08,2018-07-09,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-12,2018-07-13,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-12,2018-07-13,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-12,2018-07-13,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-07-12,2018-07-13,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-02,2018-08-03,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-02,2018-08-03,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-02,2018-08-03,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-02,2018-08-03,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-04,2018-08-05,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-04,2018-08-05,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-04,2018-08-05,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-04,2018-08-05,Family Suite,"₱ 6,534.40",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-09,2018-08-10,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-09,2018-08-10,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-09,2018-08-10,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-16,2018-08-17,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-16,2018-08-17,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-16,2018-08-17,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-16,2018-08-17,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-23,2018-08-24,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-23,2018-08-24,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-23,2018-08-24,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-30,2018-08-31,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-30,2018-08-31,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-08-30,2018-08-31,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-03,2018-09-04,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-03,2018-09-04,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-03,2018-09-04,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-06,2018-09-07,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-06,2018-09-07,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-06,2018-09-07,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-06,2018-09-07,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-13,2018-09-14,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-13,2018-09-14,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-13,2018-09-14,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-13,2018-09-14,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-20,2018-09-21,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-20,2018-09-21,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-20,2018-09-21,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-20,2018-09-21,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-27,2018-09-28,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-09-27,2018-09-28,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-03,2018-10-04,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-03,2018-10-04,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-03,2018-10-04,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-04,2018-10-05,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-04,2018-10-05,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-04,2018-10-05,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-11,2018-10-12,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-11,2018-10-12,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-11,2018-10-12,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-11,2018-10-12,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-18,2018-10-19,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-18,2018-10-19,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-10-18,2018-10-19,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-01,2018-11-02,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-01,2018-11-02,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-01,2018-11-02,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-01,2018-11-02,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-02,2018-11-03,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-02,2018-11-03,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-02,2018-11-03,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-02,2018-11-03,Family Suite,"₱ 6,534.40",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-08,2018-11-09,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-08,2018-11-09,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-08,2018-11-09,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-08,2018-11-09,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-15,2018-11-16,Superior Twin Room,"₱ 3,070",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-15,2018-11-16,Deluxe Double Room,"₱ 3,653",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-15,2018-11-16,Executive Suite,"₱ 3,950",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-15,2018-11-16,Family Suite,"₱ 4,280",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-22,2018-11-23,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-22,2018-11-23,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-22,2018-11-23,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-22,2018-11-23,Family Suite,"₱ 6,534",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-29,2018-11-30,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-29,2018-11-30,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-29,2018-11-30,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-11-29,2018-11-30,Family Suite,"₱ 6,534",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-02,2018-12-03,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-02,2018-12-03,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-02,2018-12-03,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-02,2018-12-03,Family Suite,"₱ 6,534",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-06,2018-12-07,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-06,2018-12-07,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-06,2018-12-07,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-06,2018-12-07,Family Suite,"₱ 6,534",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-13,2018-12-14,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-13,2018-12-14,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-13,2018-12-14,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-13,2018-12-14,Family Suite,"₱ 6,534",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-20,2018-12-21,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-20,2018-12-21,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-20,2018-12-21,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-20,2018-12-21,Family Suite,"₱ 6,534",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-27,2018-12-28,Superior Twin Room,"₱ 4,445",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-27,2018-12-28,Deluxe Double Room,"₱ 4,702.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-27,2018-12-28,Executive Suite,"₱ 5,445.50",2,not available,0,1,1,0,1,0,1,1
+Subic Bay Venezia Hotel,"Bldg. 675. Canal Road, Subic Bay Freeport Zone, 2222 Olongapo, Philippines",3,7.0,2018-12-27,2018-12-28,Family Suite,"₱ 6,534",2,not available,0,1,1,0,1,0,1,1
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-06,2018-07-07,Standard Single Room,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-06,2018-07-07,Deluxe Single Room with Balcony,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-06,2018-07-07,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-06,2018-07-07,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-08,2018-07-09,Standard Single Room,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-08,2018-07-09,Deluxe Single Room with Balcony,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-08,2018-07-09,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-08,2018-07-09,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-12,2018-07-13,Standard Single Room,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-12,2018-07-13,Deluxe Single Room with Balcony,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-12,2018-07-13,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-12,2018-07-13,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-19,2018-07-20,Standard Single Room,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-19,2018-07-20,Deluxe Single Room with Balcony,"₱ 1,200",1,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-19,2018-07-20,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-19,2018-07-20,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-26,2018-07-27,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-07-26,2018-07-27,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-02,2018-08-03,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-02,2018-08-03,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-04,2018-08-05,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-04,2018-08-05,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-09,2018-08-10,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-09,2018-08-10,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-16,2018-08-17,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-16,2018-08-17,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-23,2018-08-24,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-23,2018-08-24,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-30,2018-08-31,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-08-30,2018-08-31,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-03,2018-09-04,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-03,2018-09-04,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-06,2018-09-07,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-06,2018-09-07,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-13,2018-09-14,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-13,2018-09-14,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-20,2018-09-21,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-20,2018-09-21,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-27,2018-09-28,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-09-27,2018-09-28,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-03,2018-10-04,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-03,2018-10-04,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-04,2018-10-05,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-04,2018-10-05,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-11,2018-10-12,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-11,2018-10-12,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-18,2018-10-19,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-18,2018-10-19,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-25,2018-10-26,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-10-25,2018-10-26,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-01,2018-11-02,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-01,2018-11-02,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-02,2018-11-03,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-02,2018-11-03,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-08,2018-11-09,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-08,2018-11-09,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-15,2018-11-16,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-15,2018-11-16,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-22,2018-11-23,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-22,2018-11-23,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-29,2018-11-30,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-11-29,2018-11-30,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-02,2018-12-03,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-02,2018-12-03,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-06,2018-12-07,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-06,2018-12-07,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-13,2018-12-14,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-13,2018-12-14,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-20,2018-12-21,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-20,2018-12-21,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-27,2018-12-28,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2018-12-27,2018-12-28,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-01,2019-01-02,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-01,2019-01-02,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-03,2019-01-04,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-03,2019-01-04,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-10,2019-01-11,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-10,2019-01-11,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-17,2019-01-18,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-17,2019-01-18,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-24,2019-01-25,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-24,2019-01-25,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-31,2019-02-01,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-01-31,2019-02-01,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-07,2019-02-08,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-07,2019-02-08,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-14,2019-02-15,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-14,2019-02-15,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-21,2019-02-22,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-21,2019-02-22,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-28,2019-03-01,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-02-28,2019-03-01,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-02,2019-03-03,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-02,2019-03-03,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-07,2019-03-08,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-07,2019-03-08,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-14,2019-03-15,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-14,2019-03-15,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-21,2019-03-22,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-21,2019-03-22,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-28,2019-03-29,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-03-28,2019-03-29,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-01,2019-04-02,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-01,2019-04-02,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-04,2019-04-05,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-04,2019-04-05,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-11,2019-04-12,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-11,2019-04-12,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-18,2019-04-19,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-18,2019-04-19,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-25,2019-04-26,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-04-25,2019-04-26,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-01,2019-05-02,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-01,2019-05-02,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-02,2019-05-03,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-02,2019-05-03,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-09,2019-05-10,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-09,2019-05-10,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-16,2019-05-17,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-16,2019-05-17,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-23,2019-05-24,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-23,2019-05-24,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-30,2019-05-31,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-30,2019-05-31,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-31,2019-06-01,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-05-31,2019-06-01,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-06,2019-06-07,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-06,2019-06-07,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-13,2019-06-14,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-13,2019-06-14,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-20,2019-06-21,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-20,2019-06-21,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-27,2019-06-28,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-27,2019-06-28,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-30,2019-07-01,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-06-30,2019-07-01,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-07-04,2019-07-05,Deluxe Double Room with Shower,"₱ 1,200",2,not available,0,1,1,0,0,0,0,0
+Sleep and Stay Hotel,"Located at 48 National Highway Barretto, Olongapo City Infront of 7- eleven, 2200 Hingin, Philippines",3,,2019-07-04,2019-07-05,Family Suite,"₱ 1,500",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-06,2018-07-07,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-06,2018-07-07,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-06,2018-07-07,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-08,2018-07-09,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-08,2018-07-09,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-08,2018-07-09,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-12,2018-07-13,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-12,2018-07-13,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-19,2018-07-20,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-19,2018-07-20,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-19,2018-07-20,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-26,2018-07-27,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-26,2018-07-27,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-07-26,2018-07-27,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-02,2018-08-03,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-02,2018-08-03,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-04,2018-08-05,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-04,2018-08-05,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-09,2018-08-10,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-09,2018-08-10,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-09,2018-08-10,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-16,2018-08-17,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-16,2018-08-17,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-16,2018-08-17,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-23,2018-08-24,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-23,2018-08-24,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-23,2018-08-24,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-30,2018-08-31,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-30,2018-08-31,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-08-30,2018-08-31,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-03,2018-09-04,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-03,2018-09-04,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-03,2018-09-04,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-06,2018-09-07,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-06,2018-09-07,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-06,2018-09-07,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-13,2018-09-14,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-13,2018-09-14,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-13,2018-09-14,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-20,2018-09-21,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-20,2018-09-21,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-20,2018-09-21,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-27,2018-09-28,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-27,2018-09-28,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-09-27,2018-09-28,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-03,2018-10-04,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-03,2018-10-04,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-03,2018-10-04,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-04,2018-10-05,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-04,2018-10-05,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-04,2018-10-05,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-11,2018-10-12,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-11,2018-10-12,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-11,2018-10-12,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-18,2018-10-19,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-18,2018-10-19,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-18,2018-10-19,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-25,2018-10-26,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-25,2018-10-26,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-10-25,2018-10-26,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-01,2018-11-02,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-01,2018-11-02,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-01,2018-11-02,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-02,2018-11-03,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-02,2018-11-03,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-08,2018-11-09,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-08,2018-11-09,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-08,2018-11-09,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-15,2018-11-16,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-15,2018-11-16,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-15,2018-11-16,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-22,2018-11-23,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-22,2018-11-23,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-22,2018-11-23,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-29,2018-11-30,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-29,2018-11-30,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-11-29,2018-11-30,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-02,2018-12-03,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-02,2018-12-03,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-02,2018-12-03,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-06,2018-12-07,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-06,2018-12-07,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-06,2018-12-07,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-13,2018-12-14,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-13,2018-12-14,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-13,2018-12-14,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-20,2018-12-21,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-20,2018-12-21,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-20,2018-12-21,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-27,2018-12-28,Standard Double Room,"₱ 1,071.43",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-27,2018-12-28,Superior Double Room,"₱ 1,250",2,not available,0,1,1,0,0,0,0,0
+Rainbowland Hotel,"1090 Rizal Avenue, East Tapinac, 2200 Olongapo, Philippines",2,7.1,2018-12-27,2018-12-28,Deluxe Twin Room,"₱ 1,428.57",2,not available,0,1,1,0,0,0,0,0
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-06,2018-07-07,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-06,2018-07-07,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-08,2018-07-09,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-08,2018-07-09,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-12,2018-07-13,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-12,2018-07-13,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-19,2018-07-20,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-19,2018-07-20,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-26,2018-07-27,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-07-26,2018-07-27,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-02,2018-08-03,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-02,2018-08-03,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-04,2018-08-05,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-04,2018-08-05,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-09,2018-08-10,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-16,2018-08-17,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-16,2018-08-17,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-23,2018-08-24,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-23,2018-08-24,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-30,2018-08-31,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-08-30,2018-08-31,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-03,2018-09-04,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-03,2018-09-04,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-06,2018-09-07,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-06,2018-09-07,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-13,2018-09-14,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-13,2018-09-14,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-20,2018-09-21,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-20,2018-09-21,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-27,2018-09-28,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-09-27,2018-09-28,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-03,2018-10-04,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-03,2018-10-04,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-04,2018-10-05,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-04,2018-10-05,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-11,2018-10-12,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-11,2018-10-12,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-18,2018-10-19,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-18,2018-10-19,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-25,2018-10-26,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-10-25,2018-10-26,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-01,2018-11-02,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-01,2018-11-02,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-02,2018-11-03,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-02,2018-11-03,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-08,2018-11-09,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-08,2018-11-09,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-15,2018-11-16,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-15,2018-11-16,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-22,2018-11-23,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-22,2018-11-23,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-29,2018-11-30,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-11-29,2018-11-30,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-02,2018-12-03,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-02,2018-12-03,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-06,2018-12-07,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-06,2018-12-07,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-13,2018-12-14,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-13,2018-12-14,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-20,2018-12-21,Budget Double Room,"₱ 1,260",2,not available,0,1,1,0,0,0,0,1
+Harleys Hotel,"Baloy Beach Barrio Barretto, 2200 Olongapo, Philippines",2,7.5,2018-12-20,2018-12-21,Double Room with Balcony and Sea View,"₱ 1,900",2,not available,0,1,1,0,0,0,0,1
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-06,2018-07-07,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-06,2018-07-07,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-06,2018-07-07,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-08,2018-07-09,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-08,2018-07-09,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-08,2018-07-09,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-12,2018-07-13,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-12,2018-07-13,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-19,2018-07-20,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-19,2018-07-20,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-26,2018-07-27,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-26,2018-07-27,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-07-26,2018-07-27,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-02,2018-08-03,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-02,2018-08-03,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-02,2018-08-03,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-04,2018-08-05,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-04,2018-08-05,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-04,2018-08-05,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-09,2018-08-10,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-09,2018-08-10,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-09,2018-08-10,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-16,2018-08-17,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-16,2018-08-17,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-16,2018-08-17,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-23,2018-08-24,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-23,2018-08-24,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-23,2018-08-24,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-30,2018-08-31,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-30,2018-08-31,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-08-30,2018-08-31,Superior with Loft,"₱ 4,200",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-10-18,2018-10-19,Business Superior,"₱ 3,395",2,not available,0,1,1,0,0,0,0,0
+Subic Coco Hotel,"Portion of Lot-1 Subic Commercial and Light Industrial Park, Dewey Avenue, Central Business District, Subic Bay Freeport Zone, Zambales, 2222 Olongapo, Philippines",3,7.9,2018-10-25,2018-10-26,Deluxe Room,"₱ 3,710",2,not available,0,1,1,0,0,0,0,0
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-06,2018-07-07,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-08,2018-07-09,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-08,2018-07-09,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-12,2018-07-13,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-12,2018-07-13,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-19,2018-07-20,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-19,2018-07-20,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-19,2018-07-20,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-26,2018-07-27,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-26,2018-07-27,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-07-26,2018-07-27,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-02,2018-08-03,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-02,2018-08-03,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-02,2018-08-03,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-04,2018-08-05,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-04,2018-08-05,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-09,2018-08-10,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-09,2018-08-10,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-09,2018-08-10,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-16,2018-08-17,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-16,2018-08-17,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-16,2018-08-17,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-23,2018-08-24,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-23,2018-08-24,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-23,2018-08-24,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-30,2018-08-31,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-30,2018-08-31,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-08-30,2018-08-31,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-03,2018-09-04,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-03,2018-09-04,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-03,2018-09-04,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-06,2018-09-07,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-06,2018-09-07,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-06,2018-09-07,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-13,2018-09-14,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-13,2018-09-14,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-13,2018-09-14,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-20,2018-09-21,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-20,2018-09-21,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-20,2018-09-21,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-27,2018-09-28,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-27,2018-09-28,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-09-27,2018-09-28,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-03,2018-10-04,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-03,2018-10-04,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-03,2018-10-04,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-04,2018-10-05,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-04,2018-10-05,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-04,2018-10-05,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-11,2018-10-12,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-11,2018-10-12,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-11,2018-10-12,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-18,2018-10-19,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-18,2018-10-19,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-18,2018-10-19,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-25,2018-10-26,Standard Double Room,"₱ 1,620",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-25,2018-10-26,Deluxe Double Room,"₱ 2,000",2,not available,0,1,1,0,1,0,0,1
+The Pub Hotel,"76 National Highway, 2222 Subic, Philippines",2,7.6,2018-10-25,2018-10-26,Superior Double Room,"₱ 2,200",2,not available,0,1,1,0,1,0,0,1
